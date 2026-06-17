@@ -1,6 +1,6 @@
 # Thesis Analysis Repository
 
-This repository contains the notebook, datasets, and codebooks used for the analysis in my Master's thesis.
+This repository contains the notebooks and datasets used for the analysis in my Master's thesis.
 
 ## How to run the analysis
 
