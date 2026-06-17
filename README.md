@@ -1,6 +1,8 @@
 # Thesis Analysis Repository
 
-This repository contains the data and notebooks used for the analysis in my thesis. 
+This repository contains the data and notebooks used for the analysis in my thesis. The main reproducible analysis is contained in Analysis_Notebook.ipynb. This notebook can be run from top to bottom using the CSV files included in the Data folder.
+
+The data collection notebooks are included for transparency. Because online sources and search results can change over time, they may not reproduce the exact same source collection results. For the exact sources used for this thesis analysis, refer to the data folder. 
 
 ## How to run the analysis
 
